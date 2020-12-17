@@ -27,8 +27,6 @@ I'm a cloud-native full-stack web app developer. I focus on reactive application
 <img align="center" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shra012&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shra012&theme=nord" />
 
-https://avatars3.githubusercontent.com/u/4650108?s=200&amp;v=4
-
 ## 👨‍💻 The latest about me
 
 - 🔭 I’m working on understaning statistical analysis for Data Science
