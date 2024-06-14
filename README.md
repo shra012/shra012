@@ -2,7 +2,7 @@
 
 # Hey there, I'm Shravan
 
-I'm a cloud-native full-stack web app developer. I focus on reactive applications for any device. Every developer has a set of tools; here's mine:
+I'm a cloud-native fullstack web developer. I focus on reactive applications for any device. Every developer has a set of tools; here's mine:
 
 ## Programming
 
@@ -36,4 +36,4 @@ I'm a cloud-native full-stack web app developer. I focus on reactive application
 - 🤔 I’m looking for help with Rust and Golang.
 - 💬 Ask me about Java, JavaScript and Python education resources
 - 📫 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/shravan-kumar12/)
-- ⚡ Fun fact: I studied mechanical engineering without understanding the usecases of engineering math.
+- ⚡ Fun fact: Just like a million other people I studied mechanical engineering and joined IT, but I really like it :wink:.
