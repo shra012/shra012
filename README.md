@@ -1,39 +1,122 @@
-<!-- **shra012/shra012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- Updated GitHub Profile README with Data Science Section -->
 
-# Hey there, I'm Shravan
+<h1 align="center">Hey there 👋, I'm Shravankumar Nagarajan</h1>
+<p align="center">🚀 Cloud-Native Fullstack Developer | 📊 Aspiring Data Analyst | 🌐 Lifelong Learner</p>
 
-I'm a cloud-native fullstack web developer. I focus on reactive applications for any device. Every developer has a set of tools; here's mine:
+---
 
-## Programming
+### 🧑‍💻 About Me
 
-| 🟩<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/><br/>🟨 | <br/><br/><br/><br/>🟨 |
-|--|--|--|--|--|--|--|--|--|--|--|
-|<code><!-- Java --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>|<code><!-- JavaScript --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>|<code><!-- Python --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>|<code><!-- CSS --><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>|<code><!-- HTML --><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>|<code><!-- Bootstrap --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>|<code><!-- jQuery --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>|<code><!-- React --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>|<code><!-- Angular --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>|<code><!-- Redux --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>|<code><!-- Node --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>|<code><!-- TypeScript --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>|
+- 💼 Lead Fullstack Engineer | Building scalable systems @ Ex - Bank Of New York Mellon, Elsevier, Accenture, Cognizant, TCS
+- 🎓 Incoming MS in Data Analytics @ San Jose State University  
+- ⚙️ Languages I love: **Java**, **Python**, **JavaScript**  
+- 🌱 Learning: **Machine Learning**, **Data Engineering**, **Rust**  
+- 💡 Exploring: **LangChain**, **CARLA**, **FAISS**, **NLP pipelines**  
+- 🧠 Fun Fact: I switched from Mechanical Engineering to IT and never looked back 😄
 
-## Databases
+---
 
-|<br/>🟩<br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 |
-|--|--|--|--|--|--|
-|<code><!-- SQL --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>|<code><!-- MySQL --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>|<code><!-- Oracle --><img height="20" src="https://avatars3.githubusercontent.com/u/4430336?s=200&amp;v=4"></code>|<code><!-- MongoDB --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>|<code><!-- PostgreSQL --><img height="20" src="https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png"></code>|<code><!-- Datastax Enterprise Graph --><img height="20" src="https://img.stackshare.io/service/7105/New_Project__68_.png"></code>|
+### 🧠 Data Science & AI
 
-## Cloud
+#### 📚 Libraries & Frameworks  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2E8BC0?style=flat-square)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=apache-spark&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-|<br/>🟩<br/>🟩<br/>🟨<br/>🟨 |<br/><br/>🟩<br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨 | <br/><br/><br/>🟨<br/>🟨|
-|--|--|--|--|
-|<code><!-- Cloud Foundry --><img height="20" src="https://avatars1.githubusercontent.com/u/621746?s=200&amp;v=4"></code>|<code><!-- AWS --><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>|<code><!-- Heroku --><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>|<code><!-- Digital Ocean --><img height="20" src="https://avatars3.githubusercontent.com/u/4650108?s=200&amp;v=4"></code>|
+#### 📦 Data & Vector Stores
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-7A42F4?style=flat-square)
+![FAISS](https://img.shields.io/badge/-FAISS-1E90FF?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-000000?style=flat-square)
 
-## 📊 My GitHub Stats
+#### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
 
-<img align="center" alt="Johann Lilly's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shra012&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shra012&theme=nord" />
+#### 🤖 Tools & Platforms  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## 👨‍💻 The latest about me
+---
 
-- 🔭 I’m working on understaning statistical analysis for Data Science
-- 🌱 I’m currently learning JavaScript and Python
-- 🏫 I'm studying Mathematics for Machine Learning and Data Science
-- 👯 I’m looking to collaborate on Javascript projects.
-- 🤔 I’m looking for help with Rust and Golang.
-- 💬 Ask me about Java, JavaScript and Python education resources
-- 📫 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/shravan-kumar12/)
-- ⚡ Fun fact: Just like a million other people I studied mechanical engineering and joined IT, but I really like it :wink:.
+### 🛠️ Tech Stack
+
+<details>
+<summary>🖥️ Click to expand (Fullstack, DevOps, DBs, Cloud)</summary>
+
+#### 💻 Programming & Frameworks  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+#### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-F29111?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+#### 🛢️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
+
+#### 🧱 Paradigms & Concepts  
+![OOP](https://img.shields.io/badge/-Object--Oriented-E34F26?style=flat-square)
+![Functional](https://img.shields.io/badge/-Functional-6e4aff?style=flat-square)
+![Reactive](https://img.shields.io/badge/-Reactive-ff8c00?style=flat-square)
+![Concurrent](https://img.shields.io/badge/-Multithreaded-0f4c75?style=flat-square)
+
+#### 🧑‍🔧 Environments  
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-143?style=flat-square&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</details>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shra012&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shra012&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🔍 Featured Projects
+
+- 🔗 [**Anki Notion Sync Tool**](https://github.com/shra012/notion-to-anki) – Exports Notion toggle blocks as spaced-rep Anki cards
+- 🚦 [**CARLA Traffic Violation Library**](https://github.com/shra012/carla-violation-detector) – Real-time test suite for autonomous driving simulation
+- 📊 [**Twitter Trend Analyzer**](https://github.com/shra012/airflow-tweets) – Airflow + BigQuery + Kibana pipeline for social media insights
+
+---
+
+### 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-kumar12/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:shravan.fisher@live.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shra012)
+
+---
+
+_“Build things. Break things. Learn things. Repeat.”_
