@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Lead Fullstack Engineer | Building scalable systems @ Ex - Bank Of New York Mellon, Elsevier, Accenture, Cognizant, TCS
+- 💼 Lead Fullstack Engineer | Building scalable systems @ Ex - Bank Of New York Mellon, Elsevier
 - 🎓 Incoming MS in Data Analytics @ San Jose State University  
 - ⚙️ Languages I love: **Java**, **Python**, **JavaScript**  
 - 🌱 Learning: **Machine Learning**, **Data Engineering**, **Rust**  
