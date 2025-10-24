@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 - 💼 Lead Fullstack Engineer | Building scalable systems @ Ex - Bank Of New York Mellon, Elsevier
-- 🎓 Incoming MS in Data Analytics @ San Jose State University  
+- 🎓 Pursuing MS in Applied Data Intelligence @ San Jose State University  
 - ⚙️ Languages I love: **Java**, **Python**, **JavaScript**  
 - 🌱 Learning: **Machine Learning**, **Data Engineering**, **Rust**  
 - 💡 Exploring: **LangChain**, **CARLA**, **FAISS**, **NLP pipelines**  
