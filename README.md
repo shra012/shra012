@@ -1,7 +1,7 @@
 <!-- Updated GitHub Profile README with Data Science Section -->
 
 <h1 align="center">Hey there 👋, I'm Shravankumar Nagarajan</h1>
-<p align="center">🚀 Cloud-Native Fullstack Developer | 📊 Aspiring Data Analyst | 🌐 Lifelong Learner</p>
+<p align="center">🚀 Cloud-Native Fullstack Developer | 📊 Aspiring AI Engineer | 🌐 Lifelong Learner</p>
 
 ---
 
