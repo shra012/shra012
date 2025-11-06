@@ -29,7 +29,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 #### 📦 Data & Vector Stores
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-7A42F4?style=flat-square)
 ![FAISS](https://img.shields.io/badge/-FAISS-1E90FF?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-000000?style=flat-square)
@@ -41,6 +40,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 #### 🤖 Tools & Platforms  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
