@@ -105,7 +105,7 @@
 
 ### 🔍 Featured Projects
 
-- 🔗 [**Anki Notion Sync Tool**](https://github.com/shra012/notion-to-anki) – Exports Notion toggle blocks as spaced-rep Anki cards
+- 🏡✈️ [**Airbnb Clone With AI Concierge*](https://github.com/shra012/notion-to-anki) – Your stay, smarter — the AI-powered Airbnb clone with concierge built in.
 - 🚦 [**CARLA Traffic Violation Library**](https://github.com/shra012/carla-violation-detector) – Real-time test suite for autonomous driving simulation
 - 📊 [**Twitter Trend Analyzer**](https://github.com/shra012/airflow-tweets) – Airflow + BigQuery + Kibana pipeline for social media insights
 
